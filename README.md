@@ -9,3 +9,4 @@
 **bold type of font**
 ***bold and itallic type of font***
 ~~striked throough font~~
+~~i don't talk~~
