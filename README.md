@@ -8,4 +8,4 @@
 *italic type of font*
 **bold type of font**
 ***bold and itallic type of font***
-~~striked~~
+~~striked throough font~~
